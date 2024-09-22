@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>edu.br.infnet</groupId>
-    <artifactId>eurekaserver</artifactId>
+    <artifactId>yml</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>eurekaserver</name>
     <description>eurekaserver</description>
