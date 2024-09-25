@@ -1,5 +1,5 @@
 FROM eclipse-temurin:17-jdk
-LABEL authors="raphael.costa/Mariana.Sukevicz"
+LABEL authors="mahbuhrer"
 
 VOLUME /tmp
 EXPOSE 8761
